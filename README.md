@@ -19,6 +19,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> 
     LinkedIn: RahimUllah Wazir
   </a>
+  <br/>
   <a href="mailto:rahimullah0006@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
     Email: Engr. RahimUllah Wazir
