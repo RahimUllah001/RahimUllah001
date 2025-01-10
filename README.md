@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahimullah-wazir-ba519b211/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/engr-rahim-ullah-ba519b211/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> 
     LinkedIn: RahimUllah Wazir
   </a>
